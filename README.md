@@ -21,7 +21,7 @@ I bring ideas to life through visually appealing and user-friendly designs.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstrivedi&theme=light&count_private=true&layout=compact" width="205" alt="Drashti's most used languages" />
 </a>
 <a href="https://github.com/dstrivedi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstrivedi&show_icons=true&theme=light&line_height=27&include_all_commits=true&hide=issues,prs,contribs" width="350" alt="Drashti's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dstrivedi&show_icons=true&theme=light&include_all_commits=true" width="350" alt="Drashti's github stats"/>
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
