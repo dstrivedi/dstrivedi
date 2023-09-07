@@ -8,7 +8,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a passionate and experienced front-end developer dedicated to creating exceptional web experiences, Reader & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a passionate and experienced JavaScript Full stack / front-end developer dedicated to creating exceptional web experiences, Reader & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 I bring ideas to life through visually appealing and user-friendly designs.
 
